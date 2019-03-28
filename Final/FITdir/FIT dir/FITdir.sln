@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FITdir", "FITdir\FITdir.csproj", "{2C3F4BF0-BBEC-48D5-977A-5B1B349AC55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C3F4BF0-BBEC-48D5-977A-5B1B349AC55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3F4BF0-BBEC-48D5-977A-5B1B349AC55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3F4BF0-BBEC-48D5-977A-5B1B349AC55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3F4BF0-BBEC-48D5-977A-5B1B349AC55B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E78ACE92-323B-4E23-A8C2-CDF2E2B6ACFC}
+	EndGlobalSection
+EndGlobal

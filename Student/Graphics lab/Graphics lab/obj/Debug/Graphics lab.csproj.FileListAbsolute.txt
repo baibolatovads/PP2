@@ -1,0 +1,9 @@
+C:\Users\User_PC\Documents\PP2\Student\Graphics lab\Graphics lab\bin\Debug\Graphics lab.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Graphics lab\Graphics lab\bin\Debug\Graphics lab.exe
+C:\Users\User_PC\Documents\PP2\Student\Graphics lab\Graphics lab\bin\Debug\Graphics lab.pdb
+C:\Users\User_PC\Documents\PP2\Student\Graphics lab\Graphics lab\obj\Debug\Graphics_lab.Form1.resources
+C:\Users\User_PC\Documents\PP2\Student\Graphics lab\Graphics lab\obj\Debug\Graphics_lab.Properties.Resources.resources
+C:\Users\User_PC\Documents\PP2\Student\Graphics lab\Graphics lab\obj\Debug\Graphics lab.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\PP2\Student\Graphics lab\Graphics lab\obj\Debug\Graphics lab.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Graphics lab\Graphics lab\obj\Debug\Graphics lab.exe
+C:\Users\User_PC\Documents\PP2\Student\Graphics lab\Graphics lab\obj\Debug\Graphics lab.pdb

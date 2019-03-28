@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Phynal\FITdir\FITdir\obj\Debug\FITdir.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Phynal\FITdir\FITdir\obj\Debug\FITdir.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Phynal\FITdir\FITdir\bin\Debug\FITdir.exe.config
+C:\Users\User_PC\Documents\PP2\Phynal\FITdir\FITdir\bin\Debug\FITdir.exe
+C:\Users\User_PC\Documents\PP2\Phynal\FITdir\FITdir\bin\Debug\FITdir.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\FITdir\FITdir\obj\Debug\FITdir.exe
+C:\Users\User_PC\Documents\PP2\Phynal\FITdir\FITdir\obj\Debug\FITdir.pdb

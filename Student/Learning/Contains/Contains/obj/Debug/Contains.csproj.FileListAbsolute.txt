@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\Contains\Contains\bin\Debug\Contains.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\Contains\Contains\bin\Debug\Contains.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Contains\Contains\bin\Debug\Contains.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\Contains\Contains\obj\Debug\Contains.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\Contains\Contains\obj\Debug\Contains.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Contains\Contains\obj\Debug\Contains.pdb

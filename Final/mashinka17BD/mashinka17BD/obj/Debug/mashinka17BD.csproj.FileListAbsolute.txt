@@ -1,0 +1,9 @@
+C:\Users\User_PC\Documents\PP2\Final\mashinka17BD\mashinka17BD\obj\Debug\mashinka17BD.Form1.resources
+C:\Users\User_PC\Documents\PP2\Final\mashinka17BD\mashinka17BD\obj\Debug\mashinka17BD.Properties.Resources.resources
+C:\Users\User_PC\Documents\PP2\Final\mashinka17BD\mashinka17BD\obj\Debug\mashinka17BD.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\PP2\Final\mashinka17BD\mashinka17BD\obj\Debug\mashinka17BD.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Final\mashinka17BD\mashinka17BD\bin\Debug\mashinka17BD.exe.config
+C:\Users\User_PC\Documents\PP2\Final\mashinka17BD\mashinka17BD\bin\Debug\mashinka17BD.exe
+C:\Users\User_PC\Documents\PP2\Final\mashinka17BD\mashinka17BD\bin\Debug\mashinka17BD.pdb
+C:\Users\User_PC\Documents\PP2\Final\mashinka17BD\mashinka17BD\obj\Debug\mashinka17BD.exe
+C:\Users\User_PC\Documents\PP2\Final\mashinka17BD\mashinka17BD\obj\Debug\mashinka17BD.pdb

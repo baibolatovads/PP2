@@ -1,0 +1,2 @@
+C:\Users\User_PC\Documents\PP2\Student\week 5\FinalSnake\FinalSnake\obj\Debug\FinalSnake.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\week 5\FinalSnake\FinalSnake\obj\Debug\FinalSnake.csproj.CoreCompileInputs.cache

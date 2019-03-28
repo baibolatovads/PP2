@@ -1,0 +1,10 @@
+C:\Users\User_PC\Documents\PP2\Student\Calculator\Calculatortop\Calculatortop\bin\Debug\Calculatortop.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Calculator\Calculatortop\Calculatortop\bin\Debug\Calculatortop.exe
+C:\Users\User_PC\Documents\PP2\Student\Calculator\Calculatortop\Calculatortop\bin\Debug\Calculatortop.pdb
+C:\Users\User_PC\Documents\PP2\Student\Calculator\Calculatortop\Calculatortop\obj\Debug\Calculatortop.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Calculator\Calculatortop\Calculatortop\obj\Debug\Calculatortop.Form1.resources
+C:\Users\User_PC\Documents\PP2\Student\Calculator\Calculatortop\Calculatortop\obj\Debug\Calculatortop.Properties.Resources.resources
+C:\Users\User_PC\Documents\PP2\Student\Calculator\Calculatortop\Calculatortop\obj\Debug\Calculatortop.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\PP2\Student\Calculator\Calculatortop\Calculatortop\obj\Debug\Calculatortop.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Calculator\Calculatortop\Calculatortop\obj\Debug\Calculatortop.exe
+C:\Users\User_PC\Documents\PP2\Student\Calculator\Calculatortop\Calculatortop\obj\Debug\Calculatortop.pdb

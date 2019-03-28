@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KBTUdir", "KBTUdir\KBTUdir.csproj", "{EC41729C-1E5C-4A8E-857A-5649AF4BF1EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC41729C-1E5C-4A8E-857A-5649AF4BF1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC41729C-1E5C-4A8E-857A-5649AF4BF1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC41729C-1E5C-4A8E-857A-5649AF4BF1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC41729C-1E5C-4A8E-857A-5649AF4BF1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7FC58A5-4ADA-4E00-948A-883798B83F39}
+	EndGlobalSection
+EndGlobal

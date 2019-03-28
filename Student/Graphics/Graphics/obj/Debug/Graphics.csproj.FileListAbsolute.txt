@@ -1,0 +1,5 @@
+C:\Users\User_PC\Documents\PP2\Student\Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Graphics\Graphics\obj\Debug\Graphics.Form1.resources
+C:\Users\User_PC\Documents\PP2\Student\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\User_PC\Documents\PP2\Student\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\PP2\Student\Graphics\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToUpper ToLower\ToUpper ToLower\bin\Debug\ToUpper ToLower.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToUpper ToLower\ToUpper ToLower\bin\Debug\ToUpper ToLower.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToUpper ToLower\ToUpper ToLower\bin\Debug\ToUpper ToLower.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToUpper ToLower\ToUpper ToLower\obj\Debug\ToUpper ToLower.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToUpper ToLower\ToUpper ToLower\obj\Debug\ToUpper ToLower.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToUpper ToLower\ToUpper ToLower\obj\Debug\ToUpper ToLower.pdb

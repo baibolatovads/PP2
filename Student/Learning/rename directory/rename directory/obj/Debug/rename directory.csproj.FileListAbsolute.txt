@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\rename directory\rename directory\bin\Debug\rename directory.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\rename directory\rename directory\bin\Debug\rename directory.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\rename directory\rename directory\bin\Debug\rename directory.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\rename directory\rename directory\obj\Debug\rename directory.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\rename directory\rename directory\obj\Debug\rename directory.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\rename directory\rename directory\obj\Debug\rename directory.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\rename directory\rename directory\obj\Debug\rename directory.pdb

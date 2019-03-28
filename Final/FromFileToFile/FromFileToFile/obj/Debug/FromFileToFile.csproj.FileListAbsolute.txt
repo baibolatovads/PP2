@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Phynal\FromFileToFile\FromFileToFile\bin\Debug\FromFileToFile.exe.config
+C:\Users\User_PC\Documents\PP2\Phynal\FromFileToFile\FromFileToFile\bin\Debug\FromFileToFile.exe
+C:\Users\User_PC\Documents\PP2\Phynal\FromFileToFile\FromFileToFile\bin\Debug\FromFileToFile.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\FromFileToFile\FromFileToFile\obj\Debug\FromFileToFile.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Phynal\FromFileToFile\FromFileToFile\obj\Debug\FromFileToFile.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Phynal\FromFileToFile\FromFileToFile\obj\Debug\FromFileToFile.exe
+C:\Users\User_PC\Documents\PP2\Phynal\FromFileToFile\FromFileToFile\obj\Debug\FromFileToFile.pdb

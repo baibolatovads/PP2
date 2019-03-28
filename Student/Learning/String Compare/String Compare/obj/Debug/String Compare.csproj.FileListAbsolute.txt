@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\String Compare\String Compare\bin\Debug\String Compare.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\String Compare\String Compare\bin\Debug\String Compare.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\String Compare\String Compare\bin\Debug\String Compare.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\String Compare\String Compare\obj\Debug\String Compare.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\String Compare\String Compare\obj\Debug\String Compare.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\String Compare\String Compare\obj\Debug\String Compare.pdb

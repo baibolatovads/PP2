@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\Far only vpered\Far only vpered\bin\Debug\Far only vpered.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\Far only vpered\Far only vpered\bin\Debug\Far only vpered.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Far only vpered\Far only vpered\bin\Debug\Far only vpered.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\Far only vpered\Far only vpered\obj\Debug\Far only vpered.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\Far only vpered\Far only vpered\obj\Debug\Far only vpered.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Far only vpered\Far only vpered\obj\Debug\Far only vpered.pdb

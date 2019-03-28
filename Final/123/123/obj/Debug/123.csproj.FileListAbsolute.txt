@@ -1,0 +1,10 @@
+C:\Users\User_PC\Documents\PP2\Phynal\123\123\bin\Debug\123.exe.config
+C:\Users\User_PC\Documents\PP2\Phynal\123\123\bin\Debug\123.exe
+C:\Users\User_PC\Documents\PP2\Phynal\123\123\bin\Debug\123.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\123\123\obj\Debug\123.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Phynal\123\123\obj\Debug\_123.Form1.resources
+C:\Users\User_PC\Documents\PP2\Phynal\123\123\obj\Debug\_123.Properties.Resources.resources
+C:\Users\User_PC\Documents\PP2\Phynal\123\123\obj\Debug\123.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\PP2\Phynal\123\123\obj\Debug\123.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Phynal\123\123\obj\Debug\123.exe
+C:\Users\User_PC\Documents\PP2\Phynal\123\123\obj\Debug\123.pdb

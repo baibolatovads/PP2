@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Phynal\Светофор\Светофор\bin\Debug\Светофор.exe.config
+C:\Users\User_PC\Documents\PP2\Phynal\Светофор\Светофор\bin\Debug\Светофор.exe
+C:\Users\User_PC\Documents\PP2\Phynal\Светофор\Светофор\bin\Debug\Светофор.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\Светофор\Светофор\obj\Debug\Светофор.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Phynal\Светофор\Светофор\obj\Debug\Светофор.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Phynal\Светофор\Светофор\obj\Debug\Светофор.exe
+C:\Users\User_PC\Documents\PP2\Phynal\Светофор\Светофор\obj\Debug\Светофор.pdb

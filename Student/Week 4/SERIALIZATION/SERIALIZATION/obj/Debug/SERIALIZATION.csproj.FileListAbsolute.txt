@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Student\Week 4\SERIALIZATION\SERIALIZATION\obj\Debug\SERIALIZATION.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Week 4\SERIALIZATION\SERIALIZATION\obj\Debug\SERIALIZATION.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Week 4\SERIALIZATION\SERIALIZATION\bin\Debug\SERIALIZATION.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Week 4\SERIALIZATION\SERIALIZATION\bin\Debug\SERIALIZATION.exe
+C:\Users\User_PC\Documents\PP2\Student\Week 4\SERIALIZATION\SERIALIZATION\bin\Debug\SERIALIZATION.pdb
+C:\Users\User_PC\Documents\PP2\Student\Week 4\SERIALIZATION\SERIALIZATION\obj\Debug\SERIALIZATION.exe
+C:\Users\User_PC\Documents\PP2\Student\Week 4\SERIALIZATION\SERIALIZATION\obj\Debug\SERIALIZATION.pdb

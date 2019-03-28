@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\IsNullOrEmpty\IsNullOrEmpty\bin\Debug\IsNullOrEmpty.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\IsNullOrEmpty\IsNullOrEmpty\bin\Debug\IsNullOrEmpty.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\IsNullOrEmpty\IsNullOrEmpty\bin\Debug\IsNullOrEmpty.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\IsNullOrEmpty\IsNullOrEmpty\obj\Debug\IsNullOrEmpty.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\IsNullOrEmpty\IsNullOrEmpty\obj\Debug\IsNullOrEmpty.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\IsNullOrEmpty\IsNullOrEmpty\obj\Debug\IsNullOrEmpty.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\IsNullOrEmpty\IsNullOrEmpty\obj\Debug\IsNullOrEmpty.pdb

@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Student\week 5\MySnake_1\MySnake_1\obj\Debug\MySnake_1.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\week 5\MySnake_1\MySnake_1\obj\Debug\MySnake_1.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\week 5\MySnake_1\MySnake_1\bin\Debug\MySnake_1.exe.config
+C:\Users\User_PC\Documents\PP2\Student\week 5\MySnake_1\MySnake_1\bin\Debug\MySnake_1.exe
+C:\Users\User_PC\Documents\PP2\Student\week 5\MySnake_1\MySnake_1\bin\Debug\MySnake_1.pdb
+C:\Users\User_PC\Documents\PP2\Student\week 5\MySnake_1\MySnake_1\obj\Debug\MySnake_1.exe
+C:\Users\User_PC\Documents\PP2\Student\week 5\MySnake_1\MySnake_1\obj\Debug\MySnake_1.pdb

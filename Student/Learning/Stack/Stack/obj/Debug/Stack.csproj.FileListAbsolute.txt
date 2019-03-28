@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Stack\Stack\obj\Debug\Stack.pdb

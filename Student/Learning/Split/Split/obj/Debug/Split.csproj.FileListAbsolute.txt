@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\Split\Split\bin\Debug\Split.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\Split\Split\bin\Debug\Split.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Split\Split\bin\Debug\Split.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\Split\Split\obj\Debug\Split.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\Split\Split\obj\Debug\Split.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Split\Split\obj\Debug\Split.pdb

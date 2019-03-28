@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\Try-Catch\Try-Catch\bin\Debug\Try-Catch.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\Try-Catch\Try-Catch\bin\Debug\Try-Catch.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Try-Catch\Try-Catch\bin\Debug\Try-Catch.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\Try-Catch\Try-Catch\obj\Debug\Try-Catch.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\Try-Catch\Try-Catch\obj\Debug\Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\Try-Catch\Try-Catch\obj\Debug\Try-Catch.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Try-Catch\Try-Catch\obj\Debug\Try-Catch.pdb

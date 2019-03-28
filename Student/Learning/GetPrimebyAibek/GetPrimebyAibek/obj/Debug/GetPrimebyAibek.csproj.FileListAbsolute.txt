@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\GetPrimebyAibek\GetPrimebyAibek\obj\Debug\GetPrimebyAibek.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\GetPrimebyAibek\GetPrimebyAibek\bin\Debug\GetPrimebyAibek.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\GetPrimebyAibek\GetPrimebyAibek\bin\Debug\GetPrimebyAibek.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\GetPrimebyAibek\GetPrimebyAibek\bin\Debug\GetPrimebyAibek.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\GetPrimebyAibek\GetPrimebyAibek\obj\Debug\GetPrimebyAibek.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\GetPrimebyAibek\GetPrimebyAibek\obj\Debug\GetPrimebyAibek.pdb

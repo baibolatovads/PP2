@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Phynal\SecondMinFromfileToFile\SecondMinFromfileToFile\bin\Debug\SecondMinFromfileToFile.exe.config
+C:\Users\User_PC\Documents\PP2\Phynal\SecondMinFromfileToFile\SecondMinFromfileToFile\bin\Debug\SecondMinFromfileToFile.exe
+C:\Users\User_PC\Documents\PP2\Phynal\SecondMinFromfileToFile\SecondMinFromfileToFile\bin\Debug\SecondMinFromfileToFile.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\SecondMinFromfileToFile\SecondMinFromfileToFile\obj\Debug\SecondMinFromfileToFile.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Phynal\SecondMinFromfileToFile\SecondMinFromfileToFile\obj\Debug\SecondMinFromfileToFile.exe
+C:\Users\User_PC\Documents\PP2\Phynal\SecondMinFromfileToFile\SecondMinFromfileToFile\obj\Debug\SecondMinFromfileToFile.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\SecondMinFromfileToFile\SecondMinFromfileToFile\obj\Debug\SecondMinFromfileToFile.csprojResolveAssemblyReference.cache

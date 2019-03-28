@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Student\Week 2\Новая папка\Small Prime Number\Small Prime Number\bin\Debug\Small Prime Number.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Week 2\Новая папка\Small Prime Number\Small Prime Number\bin\Debug\Small Prime Number.exe
+C:\Users\User_PC\Documents\PP2\Student\Week 2\Новая папка\Small Prime Number\Small Prime Number\bin\Debug\Small Prime Number.pdb
+C:\Users\User_PC\Documents\PP2\Student\Week 2\Новая папка\Small Prime Number\Small Prime Number\obj\Debug\Small Prime Number.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Week 2\Новая папка\Small Prime Number\Small Prime Number\obj\Debug\Small Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Week 2\Новая папка\Small Prime Number\Small Prime Number\obj\Debug\Small Prime Number.exe
+C:\Users\User_PC\Documents\PP2\Student\Week 2\Новая папка\Small Prime Number\Small Prime Number\obj\Debug\Small Prime Number.pdb

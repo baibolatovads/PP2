@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Phynal\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Phynal\menu\menu\bin\Debug\menu.exe.config
+C:\Users\User_PC\Documents\PP2\Phynal\menu\menu\bin\Debug\menu.exe
+C:\Users\User_PC\Documents\PP2\Phynal\menu\menu\bin\Debug\menu.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\menu\menu\obj\Debug\menu.exe
+C:\Users\User_PC\Documents\PP2\Phynal\menu\menu\obj\Debug\menu.pdb

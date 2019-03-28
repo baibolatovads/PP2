@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="databaseDataSet" targetNamespace="http://tempuri.org/databaseDataSet1.xsd" xmlns:mstns="http://tempuri.org/databaseDataSet1.xsd" xmlns="http://tempuri.org/databaseDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="databaseConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="databaseConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Databasetop.Properties.Settings.GlobalReference.Default.databaseConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="flatsTableAdapter" GeneratorDataComponentClassName="flatsTableAdapter" Name="flats" UserDataComponentName="flatsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="databaseConnectionString (Settings)" DbObjectName="`database`.flats" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Номер квартиры, Владелец, Город, Страна FROM flats</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="databaseDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="databaseDataSet" msprop:Generator_UserDSName="databaseDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="flats" msprop:Generator_TableClassName="flatsDataTable" msprop:Generator_TableVarName="tableflats" msprop:Generator_TablePropName="flats" msprop:Generator_RowDeletingName="flatsRowDeleting" msprop:Generator_RowChangingName="flatsRowChanging" msprop:Generator_RowEvHandlerName="flatsRowChangeEventHandler" msprop:Generator_RowDeletedName="flatsRowDeleted" msprop:Generator_UserTableName="flats" msprop:Generator_RowChangedName="flatsRowChanged" msprop:Generator_RowEvArgName="flatsRowChangeEvent" msprop:Generator_RowClassName="flatsRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

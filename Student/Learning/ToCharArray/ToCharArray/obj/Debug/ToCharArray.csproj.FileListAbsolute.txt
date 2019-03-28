@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToCharArray\ToCharArray\bin\Debug\ToCharArray.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToCharArray\ToCharArray\bin\Debug\ToCharArray.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToCharArray\ToCharArray\bin\Debug\ToCharArray.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToCharArray\ToCharArray\obj\Debug\ToCharArray.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToCharArray\ToCharArray\obj\Debug\ToCharArray.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\ToCharArray\ToCharArray\obj\Debug\ToCharArray.pdb

@@ -1,0 +1,10 @@
+C:\Users\User_PC\Documents\PP2\Final\Prime to label\Prime to label\obj\Debug\Prime to label.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Final\Prime to label\Prime to label\obj\Debug\Prime_to_label.Form1.resources
+C:\Users\User_PC\Documents\PP2\Final\Prime to label\Prime to label\obj\Debug\Prime_to_label.Properties.Resources.resources
+C:\Users\User_PC\Documents\PP2\Final\Prime to label\Prime to label\obj\Debug\Prime to label.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\PP2\Final\Prime to label\Prime to label\obj\Debug\Prime to label.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Final\Prime to label\Prime to label\bin\Debug\Prime to label.exe.config
+C:\Users\User_PC\Documents\PP2\Final\Prime to label\Prime to label\bin\Debug\Prime to label.exe
+C:\Users\User_PC\Documents\PP2\Final\Prime to label\Prime to label\bin\Debug\Prime to label.pdb
+C:\Users\User_PC\Documents\PP2\Final\Prime to label\Prime to label\obj\Debug\Prime to label.exe
+C:\Users\User_PC\Documents\PP2\Final\Prime to label\Prime to label\obj\Debug\Prime to label.pdb

@@ -1,0 +1,10 @@
+C:\Users\User_PC\Documents\PP2\Phynal\Аutorization\Аutorization\bin\Debug\Аutorization.exe.config
+C:\Users\User_PC\Documents\PP2\Phynal\Аutorization\Аutorization\bin\Debug\Аutorization.exe
+C:\Users\User_PC\Documents\PP2\Phynal\Аutorization\Аutorization\bin\Debug\Аutorization.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\Аutorization\Аutorization\obj\Debug\Аutorization.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Phynal\Аutorization\Аutorization\obj\Debug\Аutorization.Properties.Resources.resources
+C:\Users\User_PC\Documents\PP2\Phynal\Аutorization\Аutorization\obj\Debug\Аutorization.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\PP2\Phynal\Аutorization\Аutorization\obj\Debug\Аutorization.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Phynal\Аutorization\Аutorization\obj\Debug\Аutorization.exe
+C:\Users\User_PC\Documents\PP2\Phynal\Аutorization\Аutorization\obj\Debug\Аutorization.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\Аutorization\Аutorization\obj\Debug\Аutorization.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\User_PC\Documents\PP2\Final\sinus\sinus\bin\Debug\sinus.exe.config
+C:\Users\User_PC\Documents\PP2\Final\sinus\sinus\bin\Debug\sinus.exe
+C:\Users\User_PC\Documents\PP2\Final\sinus\sinus\bin\Debug\sinus.pdb
+C:\Users\User_PC\Documents\PP2\Final\sinus\sinus\obj\Debug\sinus.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Final\sinus\sinus\obj\Debug\sinus.Form1.resources
+C:\Users\User_PC\Documents\PP2\Final\sinus\sinus\obj\Debug\sinus.Properties.Resources.resources
+C:\Users\User_PC\Documents\PP2\Final\sinus\sinus\obj\Debug\sinus.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\PP2\Final\sinus\sinus\obj\Debug\sinus.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Final\sinus\sinus\obj\Debug\sinus.exe
+C:\Users\User_PC\Documents\PP2\Final\sinus\sinus\obj\Debug\sinus.pdb

@@ -1,0 +1,10 @@
+C:\Users\User_PC\Documents\PP2\Phynal\Clocks\Clocks\bin\Debug\Clocks.exe.config
+C:\Users\User_PC\Documents\PP2\Phynal\Clocks\Clocks\bin\Debug\Clocks.exe
+C:\Users\User_PC\Documents\PP2\Phynal\Clocks\Clocks\bin\Debug\Clocks.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\Clocks\Clocks\obj\Debug\Clocks.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Phynal\Clocks\Clocks\obj\Debug\Clocks.Form1.resources
+C:\Users\User_PC\Documents\PP2\Phynal\Clocks\Clocks\obj\Debug\Clocks.Properties.Resources.resources
+C:\Users\User_PC\Documents\PP2\Phynal\Clocks\Clocks\obj\Debug\Clocks.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\PP2\Phynal\Clocks\Clocks\obj\Debug\Clocks.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Phynal\Clocks\Clocks\obj\Debug\Clocks.exe
+C:\Users\User_PC\Documents\PP2\Phynal\Clocks\Clocks\obj\Debug\Clocks.pdb

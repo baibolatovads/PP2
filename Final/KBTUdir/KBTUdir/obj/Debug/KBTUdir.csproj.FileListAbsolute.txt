@@ -1,0 +1,12 @@
+C:\Users\User_PC\Documents\PP2\Phynal\KBTUdir\KBTUdir\bin\Debug\KBTUdir.exe.config
+C:\Users\User_PC\Documents\PP2\Phynal\KBTUdir\KBTUdir\bin\Debug\KBTUdir.exe
+C:\Users\User_PC\Documents\PP2\Phynal\KBTUdir\KBTUdir\bin\Debug\KBTUdir.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\KBTUdir\KBTUdir\obj\Debug\KBTUdir.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Phynal\KBTUdir\KBTUdir\obj\Debug\KBTUdir.exe
+C:\Users\User_PC\Documents\PP2\Phynal\KBTUdir\KBTUdir\obj\Debug\KBTUdir.pdb
+C:\Users\User_PC\Documents\PP2\Final\KBTUdir\KBTUdir\bin\Debug\KBTUdir.exe.config
+C:\Users\User_PC\Documents\PP2\Final\KBTUdir\KBTUdir\bin\Debug\KBTUdir.exe
+C:\Users\User_PC\Documents\PP2\Final\KBTUdir\KBTUdir\bin\Debug\KBTUdir.pdb
+C:\Users\User_PC\Documents\PP2\Final\KBTUdir\KBTUdir\obj\Debug\KBTUdir.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Final\KBTUdir\KBTUdir\obj\Debug\KBTUdir.exe
+C:\Users\User_PC\Documents\PP2\Final\KBTUdir\KBTUdir\obj\Debug\KBTUdir.pdb

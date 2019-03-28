@@ -1,0 +1,10 @@
+C:\Users\User_PC\Documents\PP2\Final\movingpie\movingpie\bin\Debug\movingpie.exe.config
+C:\Users\User_PC\Documents\PP2\Final\movingpie\movingpie\bin\Debug\movingpie.exe
+C:\Users\User_PC\Documents\PP2\Final\movingpie\movingpie\bin\Debug\movingpie.pdb
+C:\Users\User_PC\Documents\PP2\Final\movingpie\movingpie\obj\Debug\movingpie.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Final\movingpie\movingpie\obj\Debug\movingpie.Form1.resources
+C:\Users\User_PC\Documents\PP2\Final\movingpie\movingpie\obj\Debug\movingpie.Properties.Resources.resources
+C:\Users\User_PC\Documents\PP2\Final\movingpie\movingpie\obj\Debug\movingpie.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\PP2\Final\movingpie\movingpie\obj\Debug\movingpie.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Final\movingpie\movingpie\obj\Debug\movingpie.exe
+C:\Users\User_PC\Documents\PP2\Final\movingpie\movingpie\obj\Debug\movingpie.pdb

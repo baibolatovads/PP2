@@ -1,0 +1,2 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\far\far\obj\Debug\far.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\far\far\obj\Debug\far.csproj.CoreCompileInputs.cache

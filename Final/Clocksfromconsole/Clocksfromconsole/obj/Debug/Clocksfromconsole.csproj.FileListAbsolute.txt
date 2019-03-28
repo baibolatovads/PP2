@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Phynal\Clocksfromconsole\Clocksfromconsole\obj\Debug\Clocksfromconsole.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Phynal\Clocksfromconsole\Clocksfromconsole\obj\Debug\Clocksfromconsole.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Phynal\Clocksfromconsole\Clocksfromconsole\bin\Debug\Clocksfromconsole.exe.config
+C:\Users\User_PC\Documents\PP2\Phynal\Clocksfromconsole\Clocksfromconsole\bin\Debug\Clocksfromconsole.exe
+C:\Users\User_PC\Documents\PP2\Phynal\Clocksfromconsole\Clocksfromconsole\bin\Debug\Clocksfromconsole.pdb
+C:\Users\User_PC\Documents\PP2\Phynal\Clocksfromconsole\Clocksfromconsole\obj\Debug\Clocksfromconsole.exe
+C:\Users\User_PC\Documents\PP2\Phynal\Clocksfromconsole\Clocksfromconsole\obj\Debug\Clocksfromconsole.pdb

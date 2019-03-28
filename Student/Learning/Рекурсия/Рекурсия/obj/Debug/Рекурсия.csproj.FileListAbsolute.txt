@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\Рекурсия\Рекурсия\obj\Debug\Рекурсия.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\Рекурсия\Рекурсия\obj\Debug\Рекурсия.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\Рекурсия\Рекурсия\bin\Debug\Рекурсия.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\Рекурсия\Рекурсия\bin\Debug\Рекурсия.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Рекурсия\Рекурсия\bin\Debug\Рекурсия.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\Рекурсия\Рекурсия\obj\Debug\Рекурсия.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Рекурсия\Рекурсия\obj\Debug\Рекурсия.pdb

@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Final\RepeatKBTU\RepeatKBTU\bin\Debug\RepeatKBTU.exe.config
+C:\Users\User_PC\Documents\PP2\Final\RepeatKBTU\RepeatKBTU\bin\Debug\RepeatKBTU.exe
+C:\Users\User_PC\Documents\PP2\Final\RepeatKBTU\RepeatKBTU\bin\Debug\RepeatKBTU.pdb
+C:\Users\User_PC\Documents\PP2\Final\RepeatKBTU\RepeatKBTU\obj\Debug\RepeatKBTU.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Final\RepeatKBTU\RepeatKBTU\obj\Debug\RepeatKBTU.exe
+C:\Users\User_PC\Documents\PP2\Final\RepeatKBTU\RepeatKBTU\obj\Debug\RepeatKBTU.pdb

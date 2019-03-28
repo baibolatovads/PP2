@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculatortop", "Calculatortop\Calculatortop.csproj", "{5581C7FB-06DC-4700-A58F-3C76360AC01C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5581C7FB-06DC-4700-A58F-3C76360AC01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5581C7FB-06DC-4700-A58F-3C76360AC01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5581C7FB-06DC-4700-A58F-3C76360AC01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5581C7FB-06DC-4700-A58F-3C76360AC01C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14EAE2AF-DC5F-4D7F-8711-4F4E7277449D}
+	EndGlobalSection
+EndGlobal

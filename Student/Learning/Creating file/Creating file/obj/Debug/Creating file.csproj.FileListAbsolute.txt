@@ -1,0 +1,7 @@
+C:\Users\User_PC\Documents\PP2\Student\Learning\Creating file\Creating file\bin\Debug\Creating file.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Learning\Creating file\Creating file\bin\Debug\Creating file.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Creating file\Creating file\bin\Debug\Creating file.pdb
+C:\Users\User_PC\Documents\PP2\Student\Learning\Creating file\Creating file\obj\Debug\Creating file.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\Creating file\Creating file\obj\Debug\Creating file.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Learning\Creating file\Creating file\obj\Debug\Creating file.exe
+C:\Users\User_PC\Documents\PP2\Student\Learning\Creating file\Creating file\obj\Debug\Creating file.pdb
